@@ -1555,26 +1555,26 @@ INSERT INTO typesidentifications (description, sufix) VALUES
 ('Documento de refugiado', 'RF');
 
 INSERT INTO companies (id, type_id, name, category_id, city_id, audience_id, cellphone, email) VALUES
-('9001234567', 25, 'Supermercado La Economía', 4, '05001', 6, '3101234567', 'contacto@laeconomia.com'),
-('8009876543', 25, 'Farmacia La Salud', 5, '08758', 4, '3109876543', 'info@farmacialasalud.com'),
-('9001112222', 25, 'Restaurante El Sabor', 1, '08758', 4, '3111112222', 'reservas@elsabor.com'),
-('8003334444', 25, 'Hotel Paraíso', 2, '08770', 6, '3123334444', 'reservas@hotelparaiso.com'),
-('9005556666', 25, 'Tienda de Ropa Moda', 3, '08832', 9, '3135556666', 'ventas@modatienda.com'),
-('8007778888', 25, 'Taller Mecánico Rápido', 7, '08849', 4, '3147778888', 'servicio@tallerrapido.com'),
-('9009990000', 25, 'Clínica Sanar', 8, '11001', 4, '3159990000', 'citas@clinicasanar.com'),
-('8002223333', 25, 'Gimnasio Fitness', 9, '13001', 4, '3162223333', 'info@gimnasiofitness.com'),
-('9004445555', 25, 'Salón Belleza', 10, '23068', 9, '3174445555', 'citas@salonbelleza.com'),
-('8006667777', 25, 'Librería El Saber', 11, '70001', 7, '3186667777', 'ventas@elsaber.com'),
-('9008889999', 25, 'Juguetería Divertida', 12, '20228', 1, '3198889999', 'ventas@jugueteriadivertida.com'),
-('8000001111', 25, 'Tienda Electro', 13, '05001', 4, '3200001111', 'servicio@tiendaelectro.com'),
-('9001110000', 25, 'Mueblería Hogar', 14, '08758', 4, '3211110000', 'ventas@muebleshogar.com'),
-('8002221111', 25, 'Óptica Visión', 15, '08770', 4, '3222221111', 'citas@opticavision.com'),
-('9003332222', 25, 'Veterinaria Mascota', 16, '08832', 12, '3233332222', 'emergencias@vetmascota.com'),
-('8004443333', 25, 'Florería Jardín', 17, '08849', 4, '3244443333', 'pedidos@floreriajardin.com'),
-('9005554444', 25, 'Panadería Dulce', 18, '11001', 4, '3255554444', 'pedidos@panaderiadulce.com'),
-('8006665555', 25, 'Cafetería Aroma', 19, '13001', 4, '3266665555', 'reservas@cafearoma.com'),
-('9007776666', 25, 'Ferretería Construye', 20, '23068', 4, '3277776666', 'ventas@ferreteriaconstruye.com'),
-('8008887777', 25, 'Gasolinera Rápida', 6, '70001', 4, '3288887777', 'servicio@gasolinerarapida.com');
+('9001234567', 5, 'Supermercado La Economía', 4, '05001', 6, '3101234567', 'contacto@laeconomia.com'),
+('8009876543', 5, 'Farmacia La Salud', 5, '08758', 4, '3109876543', 'info@farmacialasalud.com'),
+('9001112222', 5, 'Restaurante El Sabor', 1, '08758', 4, '3111112222', 'reservas@elsabor.com'),
+('8003334444', 5, 'Hotel Paraíso', 2, '08770', 6, '3123334444', 'reservas@hotelparaiso.com'),
+('9005556666', 5, 'Tienda de Ropa Moda', 3, '08832', 9, '3135556666', 'ventas@modatienda.com'),
+('8007778888', 5, 'Taller Mecánico Rápido', 7, '08849', 4, '3147778888', 'servicio@tallerrapido.com'),
+('9009990000', 5, 'Clínica Sanar', 8, '11001', 4, '3159990000', 'citas@clinicasanar.com'),
+('8002223333', 5, 'Gimnasio Fitness', 9, '13001', 4, '3162223333', 'info@gimnasiofitness.com'),
+('9004445555', 5, 'Salón Belleza', 10, '23068', 9, '3174445555', 'citas@salonbelleza.com'),
+('8006667777', 5, 'Librería El Saber', 11, '70001', 7, '3186667777', 'ventas@elsaber.com'),
+('9008889999', 5, 'Juguetería Divertida', 12, '20228', 1, '3198889999', 'ventas@jugueteriadivertida.com'),
+('8000001111', 5, 'Tienda Electro', 13, '05001', 4, '3200001111', 'servicio@tiendaelectro.com'),
+('9001110000', 5, 'Mueblería Hogar', 14, '08758', 4, '3211110000', 'ventas@muebleshogar.com'),
+('8002221111', 5, 'Óptica Visión', 15, '08770', 4, '3222221111', 'citas@opticavision.com'),
+('9003332222', 5, 'Veterinaria Mascota', 16, '08832', 12, '3233332222', 'emergencias@vetmascota.com'),
+('8004443333', 5, 'Florería Jardín', 17, '08849', 4, '3244443333', 'pedidos@floreriajardin.com'),
+('9005554444', 5, 'Panadería Dulce', 18, '11001', 4, '3255554444', 'pedidos@panaderiadulce.com'),
+('8006665555', 5, 'Cafetería Aroma', 19, '13001', 4, '3266665555', 'reservas@cafearoma.com'),
+('9007776666', 5, 'Ferretería Construye', 20, '23068', 4, '3277776666', 'ventas@ferreteriaconstruye.com'),
+('8008887777', 5, 'Gasolinera Rápida', 6, '70001', 4, '3288887777', 'servicio@gasolinerarapida.com');
 
 INSERT INTO memberships (name, description) VALUES
 ('Básica', 'Acceso a beneficios básicos'),
@@ -1790,9 +1790,6 @@ INSERT INTO companyproducts (company_id, product_id, price, unitimeasure_id) VAL
 ('9001234567', 4, 2.99, 3),
 ('9001234567', 5, 1.49, 6),
 ('8009876543', 6, 3.99, 1),
-('9001112222', 1, 29.99, 1),
-('9001112222', 2, 49.99, 1),
-('9001112222', 3, 79.99, 1),
 ('8003334444', 10, 50.00, 1),
 ('9005556666', 1, 29.99, 1),
 ('9005556666', 2, 49.99, 1),
@@ -1917,9 +1914,47 @@ INSERT INTO detail_favorites (favorite_id, product_id) VALUES
 (18, 19),
 (19, 20),
 (20, 1);
+
+INSERT INTO customers_memberships (customer_id, membership_id, period_id, start_date, end_date) VALUES
+(1, 3, 4, '2025-06-01', '2025-06-30'),
+(2, 9, 4, '2025-07-01', '2025-07-31'),
+(3, 2, 4, '2025-07-01', '2025-07-31'),
+(4, 10, 4, '2025-06-15', '2025-07-14'),
+(5, 1, 7, '2025-01-01', '2025-06-30'),
+(6, 9, 7, '2025-07-01', '2025-12-31'),
+(7, 4, 4, '2025-07-01', '2025-07-31'),
+(8, 10, 4, '2025-07-01', '2025-07-31'),
+(9, 3, 4, '2025-07-01', '2025-07-31'),
+(10, 9, 4, '2025-07-01', '2025-07-31'),
+(11, 5, 4, '2025-07-01', '2025-07-31'),
+(12, 10, 4, '2025-07-01', '2025-07-31'),
+(13, 1, 4, '2025-07-01', '2025-07-31'),
+(14, 9, 4, '2025-07-01', '2025-07-31'),
+(15, 4, 4, '2025-07-01', '2025-07-31'),
+(16, 10, 4, '2025-07-01', '2025-07-31'),
+(17, 2, 4, '2025-07-01', '2025-07-31'),
+(18, 9, 4, '2025-07-01', '2025-07-31'),
+(19, 1, 4, '2025-07-01', '2025-07-31'),
+(20, 10, 4, '2025-07-01', '2025-07-31');
+
+INSERT INTO quality_products (product_id, customer_id, poll_id, company_id, daterating, rating) VALUES
+(8, 1, 4, '9001234567', '2025-04-15 10:35:00', 4.5),  
+(9, 2, 4, '9001234567', '2025-05-20 11:50:00', 5.0),
+(10, 3, 4, '8009876543', '2025-06-10 14:25:00', 4.0),
+(11, 4, 5, '9001112222', '2025-07-01 12:50:00', 5.0),
+(12, 5, 5, '9001112222', '2025-07-10 13:20:00', 4.0);
+
+INSERT INTO favorites (id, customer_id) VALUES
+(101, 1), (102, 2), (103, 3), (104, 4), (105, 5),
+(106, 6), (107, 7), (108, 8), (109, 9), (110, 10), (111, 11);
+
+INSERT INTO detail_favorites (favorite_id, product_id) VALUES
+(101, 1), (102, 1), (103, 1), (104, 1), (105, 1),
+(106, 1), (107, 1), (108, 1), (109, 1), (110, 1), (111, 1);
+
 ```
 
 
 
 
-TRUNCATE TABLE companies;
+
